@@ -1,2 +1,2 @@
 # WUWA
- - random gacha
+ - random gacha SDK
